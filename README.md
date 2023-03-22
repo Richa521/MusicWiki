@@ -1,4 +1,4 @@
-MusicWiki:
+## MusicWiki:
 
 - Is an Android app that uses the Last.fm API to provide information on music genres, artists, albums, and tracks.
 - Is built using Kotlin programming language, MVVM architecture, and coroutines for asynchronous API calls.
