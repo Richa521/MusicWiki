@@ -24,7 +24,7 @@ MusicWiki aims to be the ultimate destination for music lovers to discover, lear
 - Did not convert listener and play count to the nearest number to show them in 'k' format.
 
 ## Screenshots -
-![Screenshot_20230322_144354_MusicWiki](https://user-images.githubusercontent.com/77117631/226857914-971070da-c9fd-411b-88e2-3fe61ec03e0d.jpg {width=40px height=80px})
+![Screenshot_20230322_144354_MusicWiki](https://user-images.githubusercontent.com/77117631/226857914-971070da-c9fd-411b-88e2-3fe61ec03e0d.jpg =250x250)
 
 ![Screenshot_20230322_144401_MusicWiki](https://user-images.githubusercontent.com/77117631/226858003-bd64d20e-cef9-420f-9a83-354755e8993c.jpg)
 
