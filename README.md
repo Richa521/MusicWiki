@@ -23,4 +23,5 @@ MusicWiki aims to be the ultimate destination for music lovers to discover, lear
 - Displays listener count instead of follower count in ArtistInfo Activity.
 - Did not convert listener and play count to the nearest number to show them in 'k' format.
 
+## Screenshots -
 
