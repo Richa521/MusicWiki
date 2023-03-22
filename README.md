@@ -24,17 +24,7 @@ MusicWiki aims to be the ultimate destination for music lovers to discover, lear
 - Did not convert listener and play count to the nearest number to show them in 'k' format.
 
 ## Screenshots -
-![Screenshot_20230322_144354_MusicWiki](https://user-images.githubusercontent.com/77117631/226857914-971070da-c9fd-411b-88e2-3fe61ec03e0d.jpg =250x250)
+<img src="https://user-images.githubusercontent.com/77117631/226874813-87cdee1f-544e-4cae-a156-0ad5288e13c2.png">
 
-![Screenshot_20230322_144401_MusicWiki](https://user-images.githubusercontent.com/77117631/226858003-bd64d20e-cef9-420f-9a83-354755e8993c.jpg)
-
-![Screenshot_20230322_144413_MusicWiki](https://user-images.githubusercontent.com/77117631/226858120-8e477299-b209-4e40-b140-a22f6a6d103a.jpg)
-
-![Screenshot_20230322_144649_MusicWiki](https://user-images.githubusercontent.com/77117631/226858188-e6b4b910-60eb-47c6-9acd-ada1bc2fa9ba.jpg)
-
-![Screenshot_20230322_145454_MusicWiki](https://user-images.githubusercontent.com/77117631/226858613-1a541cfc-0189-41dd-ba6f-1fe35761d5ac.jpg)
-
-![Screenshot_20230322_144432_MusicWiki](https://user-images.githubusercontent.com/77117631/226858652-41e34210-1fae-410b-b662-1af8255deab6.jpg)
-
-![Screenshot_20230322_144901_MusicWiki](https://user-images.githubusercontent.com/77117631/226858693-052b5f43-bd36-4794-9bc3-623610785969.jpg)
+![Untitled design-3](https://user-images.githubusercontent.com/77117631/226875384-f317d001-b348-4f43-826d-b201f266a6d4.png)
 
